@@ -7,8 +7,6 @@
             //C# programlama dilinde veri tipleri, programların verileri nasıl sakladığını, işlediğini ve manipüle ettiğini belirler. C#'ta veri tipleri, hem performans hem de hafıza yönetimi açısından önemli bir rol oynar.
 
             #region TamSayılar (Integer Types)
-            //Tam sayılar, ondalık kısımdan yoksun sayılardır ve genellikle çeşitli büyüklüklerde saklanabilirler. 
-
             //Byte
             Console.WriteLine(nameof(Byte));
             Console.WriteLine($"Alt Limit       : {Byte.MinValue,20}");
